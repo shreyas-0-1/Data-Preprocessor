@@ -23,3 +23,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/shreyas-0-1/Data-Preprocessor.git
 cd DataPreprocessor.py
+pip install -r requirements.txt
