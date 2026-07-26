@@ -14,6 +14,7 @@ The package supports:
 - scikit-learn-compatible `fit`, `transform`, and `fit_transform`
 - Input validation and error handling
 
+You can do this all in one without scikit-learn's confusing syntax and documentation.
 ---
 
 ## Installation
