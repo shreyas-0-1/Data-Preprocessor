@@ -21,5 +21,5 @@ The package supports:
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
-cd cross-sectional-preprocessor
+git clone https://github.com/shreyas-0-1/Data-Preprocessor.git
+cd DataPreprocessor.py
